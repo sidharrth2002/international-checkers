@@ -1,13 +1,6 @@
 /**********|**********|**********|
 Program: main.cpp
-Course: Programming Fundamentals
-Year: 2019/2020 Trimester 2
 Name: Sidharrth Nagappan
-ID: 1181102313
-Lecture Section: TC02
-Tutorial Section: TT04
-Email: 1181102313@student.mmu.edu.my
-Phone: 016-3132154
 **********|**********|**********/
 
 #include <iostream>
